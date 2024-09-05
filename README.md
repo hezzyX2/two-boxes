@@ -18,4 +18,4 @@ You can reference the relevant [lecture notes](https://github.com/allegheny-coll
 
 5.  Save your work, and copy the link from the link-share tree to the left of the Save button.  
 
-6.  Paste your link from step 4 into `trinket.md` and commit your changes.
+6.  Turn in your link from step 4 to Canvas
